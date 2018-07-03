@@ -1,0 +1,16 @@
+{
+  "name": "wang",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "output"
+  ],
+  "dependencies": {
+    "purescript-effect": "^2.0.0",
+    "purescript-arrays": "^5.0.0",
+    "purescript-maybe": "^4.0.0",
+    "purescript-foldable-traversable": "^4.0.0"
+  },
+  "devDependencies": {}
+}
