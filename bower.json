@@ -10,7 +10,8 @@
     "purescript-effect": "^2.0.0",
     "purescript-arrays": "^5.0.0",
     "purescript-maybe": "^4.0.0",
-    "purescript-foldable-traversable": "^4.0.0"
+    "purescript-foldable-traversable": "^4.0.0",
+    "purescript-parsing": "^5.0.1"
   },
   "devDependencies": {}
 }
